@@ -2,7 +2,7 @@
 var fs = require('fs');
 const bot = new BukeleR.Bot({
   token: "OTcyMzU2MjgxOTYyNzU0MDk5.Gtdy4w.6nDSRLgS0A7-nHn8rxeQ1Z79IWoOKm9IIVbJSQ", //TOKEN BURAYA YAZIN
-  prefix: "t!",    // PREFİXİNİ BURAYA YAZABİLİRSİN
+  prefix: "+",    // PREFİXİNİ BURAYA YAZABİLİRSİN
   fetchInvites: true
 })
 
